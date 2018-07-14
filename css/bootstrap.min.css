@@ -1127,12 +1127,13 @@ input, button, select, textarea {
 }
 
 a {
-  color: #D20A11;
+  /*bottom media icons, other icons*/
+  color: #0068d6;
   text-decoration: none
 }
 
 a:hover, a:focus {
-  color: #0a6ebd;
+  : #0a6ebd;
   text-decoration: underline
 }
 
@@ -1323,11 +1324,11 @@ mark, .mark {
 }
 
 .text-primary {
-  color: #D20A11
+  color: #0068d6
 }
 
 a.text-primary:hover {
-  color: #B92B27
+  color: #1c67c2
 }
 
 .text-success {
@@ -1364,11 +1365,11 @@ a.text-danger:hover {
 
 .bg-primary {
   color: #fff;
-  background-color: #D20A11
+  background-color: #0068d6
 }
 
 a.bg-primary:hover {
-  background-color: #B92B27
+  background-color: #1c67c2
 }
 
 .bg-success {
@@ -2905,7 +2906,7 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 
 .btn {
   display: inline-block;
-  background-color: #D20A11;
+  background-color: #0068d6;
   margin-bottom: 0;
   font-weight: normal;
   text-align: center;
@@ -2939,7 +2940,7 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 
 .btn:active, .btn.active {
   outline: 0;
-  background-color: #D20A11;
+  background-color: #0068d6;
   -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125)
 }
@@ -2961,7 +2962,7 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
   color: #666666;
-  background-color: #D20A11;
+  background-color: #0068d6;
   border-color: #cfcfcf
 }
 
@@ -2981,7 +2982,7 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 
 .btn-primary {
   color: #ffffff;
-  background-color: #D20A11;
+  background-color: #0068d6;
   border-color: transparent
 }
 
@@ -2996,12 +2997,12 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 }
 
 .btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled.focus, .btn-primary[disabled].focus, fieldset[disabled] .btn-primary.focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active {
-  background-color: #D20A11;
+  background-color: #0068d6;
   border-color: transparent
 }
 
 .btn-primary .badge {
-  color: #D20A11;
+  color: #0068d6;
   background-color: #ffffff
 }
 
@@ -3110,7 +3111,7 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 }
 
 .btn-link {
-  color: #D20A11;
+  color: #0068d6;
   font-weight: normal;
   border-radius: 0
 }
@@ -3289,7 +3290,7 @@ tbody.collapse.in {
   color: #ffffff;
   text-decoration: none;
   outline: 0;
-  background-color: #D20A11
+  background-color: #0068d6
 }
 
 .dropdown-menu>.disabled>a, .dropdown-menu>.disabled>a:hover, .dropdown-menu>.disabled>a:focus {
@@ -3721,7 +3722,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
   background-color: #eeeeee;
-  border-color: #D20A11
+  border-color: #0068d6
 }
 
 .nav .nav-divider {
@@ -3825,7 +3826,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
   color: #ffffff;
-  background-color: #D20A11
+  background-color: #0068d6
 }
 
 .nav-stacked>li {
@@ -4060,7 +4061,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
   width: 22px;
   height: 2px;
   border-radius: 1px
-  
+
 }
 
 .navbar-toggle .icon-bar+.icon-bar {
@@ -4281,7 +4282,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-  color: #212121;
+  color: #185aaa;
   background-color: #eeeeee
 }
 
@@ -4307,8 +4308,9 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 
 }
 
+/*Clickable dropdown color change*/
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-  background-color: #eeeeee;
+  background-color: #185aaa;
   color: #212121
 }
 
@@ -4321,7 +4323,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
     background-color: transparent
   }
   .navbar-default .navbar-nav .open .dropdown-menu>.active>a, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
-    color: #212121;
+    color: #185aaa;
     background-color: #eeeeee
   }
   .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a, .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover, .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:focus {
@@ -4351,7 +4353,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 }
 
 .navbar-inverse {
-  background-color: #D20A11;
+  background-color: #0068d6;
   border-color: transparent
 }
 
@@ -4379,7 +4381,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
   color: #ffffff;
-  background-color: #D20A11
+  background-color: #0068d6
 }
 
 .navbar-inverse .navbar-nav>.disabled>a, .navbar-inverse .navbar-nav>.disabled>a:hover, .navbar-inverse .navbar-nav>.disabled>a:focus {
@@ -4395,7 +4397,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
   background-color: transparent
 }
 
-.navbar-inverse .navbar-toggle 
+.navbar-inverse .navbar-toggle
   background-color: rgba(0, 0, 0, 0.5)
 }
 
@@ -4404,7 +4406,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
-  background-color: #D20A11;
+  background-color: #0068d6;
   color: #ffffff
 }
 
@@ -4424,7 +4426,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a, .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus {
     color: #ffffff;
-    background-color: #D20A11
+    background-color: #0068d6
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a, .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:focus {
     color: #444444;
@@ -4491,7 +4493,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
   padding: 6px 16px;
   line-height: 1.846;
   text-decoration: none;
-  color: #D20A11;
+  color: #0068d6;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   margin-left: -1px
@@ -4517,8 +4519,8 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
   z-index: 2;
   color: #ffffff;
-  background-color: #D20A11;
-  border-color: #D20A11;
+  background-color: #0068d6;
+  border-color: #0068d6;
   cursor: default
 }
 
@@ -4634,11 +4636,11 @@ a.label:hover, a.label:focus {
 }
 
 .label-primary {
-  background-color: #D20A11
+  background-color: #0068d6
 }
 
 .label-primary[href]:hover, .label-primary[href]:focus {
-  background-color: #D20A11
+  background-color: #0068d6
 }
 
 .label-success {
@@ -4709,7 +4711,7 @@ a.badge:hover, a.badge:focus {
 }
 
 .list-group-item.active>.badge, .nav-pills>.active>a>.badge {
-  color: #D20A11;
+  color: #0068d6;
   background-color: #ffffff
 }
 
@@ -4786,7 +4788,7 @@ a.badge:hover, a.badge:focus {
 }
 
 a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
-  border-color: #D20A11
+  border-color: #0068d6
 }
 
 .thumbnail .caption {
@@ -4930,7 +4932,7 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
   line-height: 23px;
   color: #ffffff;
   text-align: center;
-  background-color: #D20A11;
+  background-color: #0068d6;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   -webkit-transition: width 0.6s ease;
@@ -5087,8 +5089,8 @@ a.list-group-item:hover, a.list-group-item:focus {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: #ffffff;
-  background-color: #D20A11;
-  border-color: #D20A11
+  background-color: #0068d6;
+  border-color: #0068d6
 }
 
 .list-group-item.active .list-group-item-heading, .list-group-item.active:hover .list-group-item-heading, .list-group-item.active:focus .list-group-item-heading, .list-group-item.active .list-group-item-heading>small, .list-group-item.active:hover .list-group-item-heading>small, .list-group-item.active:focus .list-group-item-heading>small, .list-group-item.active .list-group-item-heading>.small, .list-group-item.active:hover .list-group-item-heading>.small, .list-group-item.active:focus .list-group-item-heading>.small {
@@ -5408,26 +5410,26 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
 }
 
 .panel-primary {
-  border-color: #D20A11
+  border-color: #0068d6
 }
 
 .panel-primary>.panel-heading {
   color: #ffffff;
-  background-color: #D20A11;
-  border-color: #D20A11
+  background-color: #0068d6;
+  border-color: #0068d6
 }
 
 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
-  border-top-color: #D20A11
+  border-top-color: #0068d6
 }
 
 .panel-primary>.panel-heading .badge {
-  color: #D20A11;
+  color: #0068d6;
   background-color: #ffffff
 }
 
 .panel-primary>.panel-footer+.panel-collapse>.panel-body {
-  border-bottom-color: #D20A11
+  border-bottom-color: #0068d6
 }
 
 .panel-success {
@@ -6579,9 +6581,9 @@ button.close {
 }
 
 .btn-primary {
-  background-image: -webkit-radial-gradient(circle, #D20A11 80%, #D20A11 81%);
-  background-image: -o-radial-gradient(circle, #D20A11 80%, #D20A11 81%);
-  background-image: radial-gradient(circle, #D20A11 80%, #D20A11 81%);
+  background-image: -webkit-radial-gradient(circle, #0068d6 80%, #0068d6 81%);
+  background-image: -o-radial-gradient(circle, #0068d6 80%, #0068d6 81%);
+  background-image: radial-gradient(circle, #0068d6 80%, #0068d6 81%);
   background-repeat: no-repeat;
   -webkit-background-size: 200% 200%;
   background-size: 200%;
@@ -6594,14 +6596,14 @@ button.close {
 .btn-primary:hover {
   -webkit-background-size: 100% 100%;
   background-size: 100%;
-  border-color: #D20A11
+  border-color: #0068d6
 }
 
 .btn-primary:active {
-  background-color: #D20A11;
-  background-image: -webkit-radial-gradient(circle, #D20A11 10%, #D20A11 11%);
-  background-image: -o-radial-gradient(circle, #D20A11 10%, #D20A11 11%);
-  background-image: radial-gradient(circle, #D20A11 10%, #D20A11 11%);
+  background-color: #0068d6;
+  background-image: -webkit-radial-gradient(circle, #0068d6 10%, #0068d6 11%);
+  background-image: -o-radial-gradient(circle, #0068d6 10%, #0068d6 11%);
+  background-image: radial-gradient(circle, #0068d6 10%, #0068d6 11%);
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
   background-size: 1000%;
@@ -6750,7 +6752,7 @@ button.close {
 }
 
 .btn-link:hover, .btn-link:focus {
-  color: #D20A11;
+  color: #0068d6;
   text-decoration: none
 }
 
@@ -6790,8 +6792,8 @@ textarea, textarea.form-control, input.form-control, input[type=text], input[typ
 }
 
 textarea:focus, textarea.form-control:focus, input.form-control:focus, input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=number]:focus, [type=text].form-control:focus, [type=password].form-control:focus, [type=email].form-control:focus, [type=tel].form-control:focus {
-  -webkit-box-shadow: inset 0 -2px 0 #D20A11;
-  box-shadow: inset 0 -2px 0 #D20A11
+  -webkit-box-shadow: inset 0 -2px 0 #0068d6;
+  box-shadow: inset 0 -2px 0 #0068d6
 }
 
 textarea[disabled], textarea.form-control[disabled], input.form-control[disabled], input[type=text][disabled], input[type=password][disabled], input[type=email][disabled], input[type=number][disabled], [type=text].form-control[disabled], [type=password].form-control[disabled], [type=email].form-control[disabled], [type=tel].form-control[disabled], textarea[readonly], textarea.form-control[readonly], input.form-control[readonly], input[type=text][readonly], input[type=password][readonly], input[type=email][readonly], input[type=number][readonly], [type=text].form-control[readonly], [type=password].form-control[readonly], [type=email].form-control[readonly], [type=tel].form-control[readonly] {
@@ -6811,8 +6813,8 @@ select, select.form-control {
 }
 
 select:focus, select.form-control:focus {
-  -webkit-box-shadow: inset 0 -2px 0 #D20A11;
-  box-shadow: inset 0 -2px 0 #D20A11
+  -webkit-box-shadow: inset 0 -2px 0 #0068d6;
+  box-shadow: inset 0 -2px 0 #0068d6
 }
 
 .has-warning input, .has-warning .form-control, .has-warning input:focus, .has-warning .form-control:focus {
@@ -6843,21 +6845,21 @@ select:focus, select.form-control:focus {
 
 .nav-tabs>li>a:hover {
   background-color: transparent;
-  -webkit-box-shadow: inset 0 -2px 0 #D20A11;
-  box-shadow: inset 0 -2px 0 #D20A11;
-  color: #D20A11
+  -webkit-box-shadow: inset 0 -2px 0 #0068d6;
+  box-shadow: inset 0 -2px 0 #0068d6;
+  color: #0068d6
 }
 
 .nav-tabs>li.active>a {
   border: none;
-  -webkit-box-shadow: inset 0 -2px 0 #D20A11;
-  box-shadow: inset 0 -2px 0 #D20A11;
-  color: #D20A11
+  -webkit-box-shadow: inset 0 -2px 0 #0068d6;
+  box-shadow: inset 0 -2px 0 #0068d6;
+  color: #0068d6
 }
 
 .nav-tabs>li.active>a:hover {
   border: none;
-  color: #D20A11
+  color: #0068d6
 }
 
 .nav-tabs>li.disabled>a {

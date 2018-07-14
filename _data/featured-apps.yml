@@ -1,11 +1,11 @@
-- name: Click that Hood
-  description: A game that tests your ability to identify Savannah neighborhoods under the clock.
-  image: savbook.png
-  url: http://test-your-savannah-knowledge.com
-- name: Open Budget Savannah
-  description: Data visualization dashboard for City FY '17 Budget.
-  image: openbudgetsav.png
-  url: http://openbudgetsav.org/
+- name: City of Buffalo's Data University
+  description: Develop the skills to be a data-smart citizen! Apply by August 31st. Help craft the curriculum by letting them know what you'd like to learn about data.
+  image: data_u_bflo.jpg
+  url: https://data.buffalony.gov/stories/s/3kh4-936y/
+- name: Upstate Data Project
+  description: See what other Upstate New York cities are doing with data and technology. Check out their Municipal Data Playbook and the recent Upstate Data Summit!
+  image: UpstateData.jpg
+  url: https://dataupstate.org/
 - name: SavMaps.io
   description: A filterable, searchable interactive map of social services that allows residents to locate the nearest services to their current location.
   image: savmapsio.png

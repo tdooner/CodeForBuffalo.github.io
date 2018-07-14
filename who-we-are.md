@@ -6,4 +6,6 @@ permalink: /who-we-are/
 ---
 
 {% include about/innovators.html %}
+<!--
 {% include about/advisory.html %}
+-->

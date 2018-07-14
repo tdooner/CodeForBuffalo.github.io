@@ -1,12 +1,9 @@
-- name: The Creative Coast
-  logo: symsoft.png
-  website: 'http://thecreativecoast.org/'
-- name: SmokeCartel
-  logo: smokecartel.png
-  website: 'http://smokecartel.com'
+- name: rprt group
+  logo: rprtllc.png
+  website: 'https://www.rprtgroup.co/'
+- name: ITBuffalo.org
+  logo: itbuffalo.png
+  website: 'https://www.itbuffalo.org/'
 - name: Code for America
   logo: hacker_lab.png
   website: 'http://codeforamerica.org/'
-- name: Savannah Economic Development Authority
-  logo: seda-transparent.png
-  website: 'http://www.seda.org'

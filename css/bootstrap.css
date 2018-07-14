@@ -205,7 +205,7 @@ td, th {
   h1 {
     font-size: 1em;
   }
-    
+
 }
 
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
@@ -2956,8 +2956,8 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
-  color: #666666;
-  background-color: #D20A11;
+  color: #ffffff;
+  background-color: #0068d6;
   border-color: #cfcfcf
 }
 
@@ -4249,7 +4249,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 }
 
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #0068d6;
   border-color: transparent
 }
 
@@ -4272,7 +4272,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
   color: #212121;
-  background-color: transparent
+  background-color: #0068d6
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
@@ -4301,6 +4301,7 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
   border-color: transparent
 }
 
+/*Dropdown clickable color change*/
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
   background-color: #eeeeee;
   color: #212121
