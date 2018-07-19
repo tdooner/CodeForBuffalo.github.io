@@ -1,35 +1,27 @@
 - name: Mike Brown
-  title: 'Founder; Brigade Captain'
-  headshot: MikeBrown.jpg
+  title: 'Brigade Co-Captain'
+  headshot: MikeBrownUB.jpg
   bio: >-
-    Mike is a senior at the University at Buffalo studying political science,
-    computer science, and environmental design. Interning as an Urban Fellow,
-    Mike helped the City of Buffalo introduce the region’s first open data portal
-    and designed the Mayor's Civic Innovation Challenge. In 2017, he also led a UB
-    finalist team for the Erie Hack water innovation competition. On campus, Mike has
-    been a Leadership House and Honors College mentor, Orientation Leader, Speaker
-    of the Student Assembly, and is currently serving a second term as UB Council
-    Student Representative. After graduation, Mike intends to serve in AmeriCorps
-    before pursuing a master's degree in public administration.
-  email: mpbrown@buffalo.edu
+
+  email: mike@codeforbuffalo.org
   twitter: mpbrown15
   github:
   linkedin: 'https://www.linkedin.com/in/mpbrown15'
 - name: Ashley Smith
-  title: 'Brigade Captain'
-  headshot: .jpg
+  title: 'Brigade Co-Captain'
+  headshot: AshleySmith.jpg
   bio: >-
 
-  email: rob@opensavannah.org
-  twitter: roblingle
-  github: roblingle
-  linkedin: 'https://www.linkedin.com/in/roblingle'
+  email: ashley@codeforbuffalo.org
+  twitter:
+  github:
+  linkedin:
 - name: Jamie Bono
   title: Data Lead
   headshot: .jpg
   bio: >-
 
-  email: caila@opensavannah.org
-  twitter: cailab
+  email: jamie@codeforbuffalo.org
+  twitter:
   github:
-  linkedin: 'https://www.linkedin.com/in/cailabrown'
+  linkedin:
