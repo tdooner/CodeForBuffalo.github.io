@@ -1,7 +1,6 @@
 ---
 title: Our Organizational Patterns
 layout: default
-permalink: /core-beliefs/
 ---
 
 *At Open Savannah, we have a guiding set of beliefs – what we refer to as 'patterns' – that inform our thinking and guide our decision-making. Each pattern is short, general in application, and applies to almost all aspects of what we do.*
@@ -30,7 +29,7 @@ permalink: /core-beliefs/
 22. **We offer up our hands, not just our voices.** It's easy to complain about our local officials on Facebook. It's harder, however, to offer up our skills and seek to create the change we wish to see.&nbsp;
 23. **We meet people where they are.&nbsp;** To engage in meaningful dialogue with the entire Savannah community, we must consciously seek to communicate on the platforms and in the physical spaces citizens know and frequent most. We don't believe putting code on GitHub can, in itself, have broad-based impact.
 24. **We keep the main thing the main thing.** We currently have three core focus areas we seek to use technology and government together to wield impact: (a) mobility and transportation, (b) safety and justice, and (c) ensuring residents have affordable housing.
-25. **We do the hard work to make it simple.** 
+25. **We do the hard work to make it simple.**
 26. **We help local government work for the people who need it most** – We focus on improving services for the most vulnerable in our society and in restoring civic trust in an era of record cynicism.
 27. **We acknowledge and seek to eliminate exclusionary behaviors, norms, and practices.** It's easy to say we aim to be 'inclusive,' but being inclusive is less a thing itself than it is the absence of exclusion. We must acknowledge our own exclusionary tendencies and course-correct them whenever possible.
 
