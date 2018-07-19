@@ -8,7 +8,7 @@ permalink: /getting-started/
 
 ![](/uploads/no-one-is-coming-transparent.png){:width="300px"}
 
-No matter what your background is, we would love to put it to use! Code for Buffalo isn't just about building software; we're making our community work better, and that means we need help from everyone:
+No matter what your background is, we would love to put it to use! Code for Buffalo isn't just about building software; we're about making our community work better, and that means we need help from everyone:
 
 * **Subject-Matter Experts and Passionate People**<br>The people building technology solutions usually are not experts in the field. Whether your professional experience matches up with our projects, or whether you just have an interest that you're willing to pursue further than most, if you are willing to dig in deep and provide context and guidance to our developers then we need your help.
 
@@ -22,14 +22,21 @@ No matter what your background is, we would love to put it to use! Code for Buff
 
 * **Coders and Technologists**<br>You are where the rubber hits the road on most of our projects. Come work with us and learn some new tools and try out some new skills. It's going to be a lot of fun because you're not going at this alone - you'll have the benefit of all the skills seen above. Let's build things the world really *needs* - we need your help!
 
-<!--We've got a growing list of projects to look through on [our projects page](https://opensavannah.org/project-list). Each page describes the project, it's state of completion and any current needs. If you're a coder, the easiest entry point will be to introduce yourself to members of a project you're interested in by submitting a pull request for an outstanding issue. If you're not sure how to jump in on a project, [email Gary](mailto:gary@opensavannah.org?subject=I'm%20looking%20for%20an%Open%20Savannah%20project) (he's our project delivery lead) and he'll get you rolling.-->
 
-Our projects meet on their own schedules, but an easy way to get involved is to come to one of our biweekly meetups. They kick off with some social time to mingle, chat, and browse proposed projects that haven't gotten off the ground yet. Then we make a cup of coffee (or seltzer, or just a handful of cheese and crackers) and hear about ongoing projects or needs the community has. Some topics come from Code for Buffalo members, and others come from outside the brigade.
+<div class="row">
+  <div class="col-md-12">
+    <p class="text-center"><a href="https://goo.gl/forms/wfWaDwOluEeZvKKr1" target="_blank" class="btn btn-primary btn-lg"><i class="fa fa-hand-paper"></i>    I want to help</a></p>
+  </div>
+</div>
 
-## Join a Conversation
+### Biweekly Meetups
 
-We keep the conversation going between meetups on Slack. Generally, each project and proposal has its own slack channel so it's easy to see what people are up to and if it's something you want to join. There is also a [#project-chatter](http://slack.opensavannah.org) channel where general discussion takes place. If you haven't used Slack before, it's easy – just [request an invitation here](http://slack.codeforbuffalo.org) and you'll receive an email with more directions.
+Our projects typically meet on their own schedules, but an easy way to get involved is to come to one of our [biweekly meetups](https://www.meetup.com/Code-for-Buffalo-Code-for-America-of-Western-New-York/). They kick off with some social time to mingle, chat, and grab a bite to eat. Then we hear announcements about ongoing projects or needs the community has, followed by either a guest speaker, special presentation, or discussion topic. After that, there's time to break out into groups to work on projects or just continue good conversations. If you have a suggestion for a meetup, send us an email at [leadership@codeforbuffalo.org](mailto:leadership@codeforbuffalo.org?subject=Meetup%20Suggestion)
+
+### Join the Conversation
+
+We keep the conversation going between meetups on our [Facebook Group](https://www.facebook.com/groups/1312675832188711/) and on Slack - a mix between a group chat and an online forum. Each project and proposal can have its own slack channel so it's easy to see what people are up to and if it's something you want to join. There is also a [#general](https://codeforbuffalo.slack.com/) channel where general discussion takes place. If you haven't used Slack before, it's easy – just [request an invitation here](https://join.slack.com/t/codeforbuffalo/shared_invite/enQtMzk5NzA5MjA4NTQ0LWNlY2UyOWJlZWUxMjQ0NTE1M2RlOWNjNDcyNzkwZmYxNDY4MDE5ZGNhZjNhOWY4MWU2OWRhNGMzNzUwMmEzMTk) and you'll receive an email with more directions.
 
 ## If You're Still Looking for Something Else…
 
-You can always contact our brigade captains directly. If you have other kinds of questions, [Carl V. Lewis](mailto:carl@opensavannah.org?subject=Getting%20Started%20with%20Open%20Savannah) and [Aaron Pompei](mailto:aaron@opensavannah.org?subject=Getting%20Started%20with%20Open%20Savannah) can probably help you out.
+You can always contact our brigade captains directly. If you have other kinds of questions, [Mike Brown](mailto:mike@codeforbuffalo.org?subject=Getting%20Started%20with%20Code%20for%20Buffalo) and [Ashley Smith](mailto:ashley@codeforbuffalo.org?subject=Getting%20Started%20with%20Code%20for%20Buffalo) can probably help you out.

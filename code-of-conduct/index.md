@@ -5,8 +5,7 @@ layout: default
 permalink: /code-of-conduct/
 ---
 
-#### Buffalo's Brigade of Code for America
-
+---
 The Code for Buffalo community expects that Code for Buffalo networks activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.

@@ -17,11 +17,6 @@ permalink: /our-mission
 **It would be the biggest source of societal good for a generation. Let's all build it** ***together.***
 
 ---
-**The big thing about small things is that they add up.** The usability, accessibility, and efficiency of government services is more than the sum of its parts. Wonky pagination on a webform to apply for a business license may seem like a trivial matter, but it very well could prevent the creation of hundreds of new local jobs by being just a high enough barrier to entry for a would-be entrepreneur to build the next great local business.
-
-**No one is coming... it's up to us.** As citizens in a democratic nation in which localism has taken on heightened importance in recent years, it's up to us to change our community and our country ... *all of us*. We can no longer depend upon the fourth estate, democratic norms, or financially-health municipal coffers to fall back on and retreat into apathy.
-
----
 ### Our mission:
 
 Code for Buffalo uses the principles and practices of the digital age to team up with local government and the Buffalo community in order to expand access to technology and digital skills, enhance public services and quality of life, and deepen civic engagement and participation.
@@ -48,6 +43,8 @@ Code for Buffalo uses the principles and practices of the digital age to team up
 2. **No one is coming. It’s up to us.** We don’t wait for others to ask us; we act. We don't expect people to come to us; we come to them. We don’t talk change; we deliver it.
 3. **Build the movement.** No one organization can fulfill this vision; we will succeed through a movement that invites everyone to roll up their sleeves and do their part.
 
+---
+
 ### Our operating principles
 
 **Empower people with skills** We support digital skill training programs and equitable access to internet.
@@ -69,6 +66,8 @@ Code for Buffalo uses the principles and practices of the digital age to team up
 **Non-partisan, but not neutral.** We are an alliance of non-partisan groups, but that non-partisanship does not imply neutrality. This community has a vision for what government should be and will work to bring that vision into reality.
 
 **Default to open.** We are guided by transparent procedures and build an open, participatory environment for all members. We use open source code and make our work accessible to everyone.
+
+---
 
 ## We are Code for Buffalo.
 
