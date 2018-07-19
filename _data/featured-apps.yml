@@ -1,3 +1,7 @@
+- name: What If We Actually Gave People A Second Chance?
+  description: Jazmin Latimer of Code for America shares insights from Clear My Record user research and explains why justice means getting the implementation right.
+  image: ClearMyRecord.jpg
+  url: https://www.codeforamerica.org/featured-stories/what-if-we-actually-gave-people-a-second-chance
 - name: City of Buffalo's Data University
   description: Develop the skills to be a data-smart citizen! Apply by August 31st. Help craft the curriculum by letting them know what you'd like to learn about data.
   image: data_u_bflo.jpg
@@ -6,7 +10,3 @@
   description: See what other Upstate New York cities are doing with data and technology. Check out their Municipal Data Playbook and the recent Upstate Data Summit!
   image: UpstateData.jpg
   url: https://dataupstate.org/
-- name: SavMaps.io
-  description: A filterable, searchable interactive map of social services that allows residents to locate the nearest services to their current location.
-  image: savmapsio.png
-  url: http://savmaps.io
