@@ -1,11 +1,11 @@
 # Site settings
 title: Code for Buffalo
 email: leadership@codeforbuffalo.org
-description: We are a local brigade of Code for America committed to using data and technology for the public good in Buffalo.
+description: Buffalo's Code for America Brigade using data and technology for the public good.
 url: "https://codeforbuffalo.org/"
 twitter_username: codeforbuffalo
 github_username:  codeforbuffalo
-image: "images/ChangeHappens.png"
+image: "images/ChangeOnlyHappens.png"
 paginate: 5
 paginate_path: "blog/page:num/"
 
