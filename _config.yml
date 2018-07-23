@@ -5,7 +5,7 @@ description: We are a local brigade of Code for America committed to using data 
 url: "https://codeforbuffalo.org/"
 twitter_username: codeforbuffalo
 github_username:  codeforbuffalo
-og:image: "images/ChangeHappens.PNG"
+image: "images/ChangeHappens.png"
 paginate: 5
 paginate_path: "blog/page:num/"
 
