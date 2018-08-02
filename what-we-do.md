@@ -1,8 +1,8 @@
 ---
 title: What We Do
-author: Open Savannah
+author: Code for Buffalo
 layout: default
 permalink: /what-we-do/
 ---
 
-{% include about/connecting.html %}
+{% include about/what-we-do.html %}
