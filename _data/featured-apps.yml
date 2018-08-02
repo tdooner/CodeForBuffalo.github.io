@@ -2,10 +2,10 @@
   description: Jazmin Latimer of Code for America shares insights from Clear My Record user research and explains why justice means getting the implementation right.
   image: ClearMyRecord.jpg
   url: https://www.codeforamerica.org/featured-stories/what-if-we-actually-gave-people-a-second-chance
-- name: City of Buffalo's Data University
-  description: Develop the skills to be a data-smart citizen! Apply by August 31st. Help craft the curriculum by letting them know what you'd like to learn about data.
-  image: data_u_bflo.jpg
-  url: https://data.buffalony.gov/
+- name: Open Data Buffalo's Neighborhood Profile
+  description: Your gateway to data, maps, and other resources describing Buffalo's 35 planning neighborhoods compiled by the Buffalo Urban Renewal Agency (BURA). Explore population, social, economic, and housing data at the neighborhood level.
+  image: neighborhoodprofile.PNG
+  url: https://data.buffalony.gov/stories/s/a235-4wxj
 - name: Upstate Data Project
   description: See what other Upstate New York cities are doing with data and technology. Check out their Municipal Data Playbook and the recent Upstate Data Summit!
   image: UpstateData.jpg
