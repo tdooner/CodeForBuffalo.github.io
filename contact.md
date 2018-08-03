@@ -44,9 +44,9 @@ permalink: /contact/
 	<div class="row">
 		<div class="col-md-8">
 			<br><h4>Your Data Privacy Matters to Us</h4>
-				<p><span style="font-weight:normal"> Even though we're obviously not in the EU, we value the data privacy principles of the GDPR. Code for Buffalo will use the information you provide on this form to provide you newsletters, event information, and other important updates. Information such as your organization/company and any responses to Code for Buffalo questionnaires or surveys will be used for the purposes of understanding our members better and coordinating our community building efforts. While totally optional, providing your birthday gives us an easy way to celebrate our community by knowing when birthdays happen to be the same day as events and by giving everyone in a certain birthday month a shout-out (without days listed) in the monthly newsletters.
+				<p><span style="font-weight:normal"> Even though we're obviously not in the EU, we value the data privacy principles of the GDPR. Code for Buffalo will use the information you provide on this form to provide you newsletters, event information, and other important updates. Information such as your organization/company and any responses to Code for Buffalo questionnaires or surveys will be used for the purposes of understanding our members better and coordinating our community building efforts.
 					<br><br>
-				You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us, or by contacting us at info@codeforbuffalo.org. You have the right to request your personal data be corrected, provided to you, prohibited for certain uses, or removed completely. We will treat your information with respect. By clicking below, you agree that we may process your information in accordance with these terms.</span>
+				You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us, or by contacting us at leadership@codeforbuffalo.org. You have the right to request your personal data be corrected, provided to you, prohibited for certain uses, or removed completely. We will treat your information with respect. By clicking below, you agree that we may process your information in accordance with these terms.</span>
 				</p>
 		</div>
 	</div>
