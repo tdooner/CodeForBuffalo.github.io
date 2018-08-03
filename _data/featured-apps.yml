@@ -3,7 +3,7 @@
   image: ClearMyRecord.jpg
   url: https://www.codeforamerica.org/featured-stories/what-if-we-actually-gave-people-a-second-chance
 - name: Open Data Buffalo's Neighborhood Profile
-  description: Your gateway to data, maps, and other resources describing Buffalo's 35 planning neighborhoods compiled by the Buffalo Urban Renewal Agency (BURA). Explore population, social, economic, and housing data at the neighborhood level.
+  description: Your gateway to data, maps, and other resources describing Buffalo's 35 planning neighborhoods compiled by the Buffalo Urban Renewal Agency (BURA).
   image: neighborhoodprofile.PNG
   url: https://data.buffalony.gov/stories/s/a235-4wxj
 - name: Upstate Data Project
