@@ -16,7 +16,7 @@ No matter what your background is, we would love to put it to use! Code for Buff
 
 * **Designers and User Experience**<br>If you have an aesthetic eye and an understanding of why people make the decisions they do, then you know how important good design is to a project. The goal of Code for Buffalo is to make the systems that surround us work better for all of us. If you can take a good thing and make it better, then we need your help.
 
-* **Advocates and Evangilists**<br>Sadly, just because we build it doesn't mean anyone will come. For our effort to have an impact, our projects need to be visible to both the people who will benefit from them, and the people who are in a position to recommend them. We need people to help our stuff be used, adopted, and maybe even redistributed to other brigades across the country.
+* **Advocates and Evangelists**<br>Sadly, just because we build it doesn't mean anyone will come. For our effort to have an impact, our projects need to be visible to both the people who will benefit from them, and the people who are in a position to recommend them. We need people to help our stuff be used, adopted, and maybe even redistributed to other brigades across the country.
 
 * **Governments and Non-Profits**<br>We need to know what our community needs and we need stewards to share ownership of the projects. If you work with government or an organization that wants to make Buffalo and Western New York better for everyone, then we need your help.
 
