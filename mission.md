@@ -6,6 +6,7 @@ permalink: /our-mission
 
 
 ### Our vision:
+##### The world as we’d like to see it
 
 *Local government can work for the people, by the people, in the digital age.*
 
@@ -18,12 +19,13 @@ permalink: /our-mission
 
 ---
 ### Our mission:
+##### How we intend to make our vision real
 
 Code for Buffalo uses the principles and practices of the digital age to team up with local government and the Buffalo community in order to expand access to technology and digital skills, enhance public services and quality of life, and deepen civic engagement and participation.
 
 **1. To expand access and skills**
 
-  If the best tool or service is inaccessible to those who need it most, it's neither radical nor revolutionary. Focus on serving the most vulnerable in our society.
+  If great tools and services are inaccessible to those in the greatest need, it's neither radical nor revolutionary. Focus on serving the most vulnerable in our society.
 
 **2. To make change real**
 
@@ -38,6 +40,7 @@ Code for Buffalo uses the principles and practices of the digital age to team up
 ---
 
 ### Our values
+##### What we are like as an organization and a community
 
 1. **Empathy is our operating system.** We have a deep empathy for the people we work with. We seek to understand the problems they face and we work tirelessly to serve them.
 2. **No one is coming. It’s up to us.** We don’t wait for others to ask us; we act. We don't expect people to come to us; we come to them. We don’t talk change; we deliver it.
@@ -46,6 +49,7 @@ Code for Buffalo uses the principles and practices of the digital age to team up
 ---
 
 ### Our operating principles
+##### The ideas that guide the decisions we make
 
 **Empower people with skills** We support digital skill training programs and equitable access to internet.
 
@@ -71,4 +75,4 @@ Code for Buffalo uses the principles and practices of the digital age to team up
 
 ## We are Code for Buffalo.
 
-Est. 2018, Buffalo, NY. A part of the Code for America brigade network.
+Est. 2018, Buffalo, NY. The Code for America Brigade of Western New York
