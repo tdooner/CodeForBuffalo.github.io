@@ -1,5 +1,5 @@
 ---
-title: Our vision, mission, values, and operating principles
+title: Vision, mission, values, and operating principles
 layout: default
 permalink: /our-mission
 ---
