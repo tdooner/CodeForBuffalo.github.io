@@ -24,6 +24,10 @@ footer li {
 #navbar {
   font-size: 14px;
 }
+.navbar-brand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 .vertical-align {
     display: flex;
     align-items: center;
