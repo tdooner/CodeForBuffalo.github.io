@@ -29,9 +29,9 @@ No matter what your background is, we would love to put it to use! Code for Buff
   </div>
 </div>
 
-### Biweekly Meetups
+### Come to the Meetups
 
-Our projects typically meet on their own schedules, but an easy way to get involved is to come to one of our [biweekly meetups](https://www.meetup.com/Code-for-Buffalo-Code-for-America-of-Western-New-York/). They kick off with some social time to mingle, chat, and grab a bite to eat. Then we hear announcements about ongoing projects or needs the community has, followed by either a guest speaker, special presentation, or discussion topic. After that, there's time to break out into groups to work on projects or just continue good conversations. If you have a suggestion for a meetup, send us an email at [leadership@codeforbuffalo.org](mailto:leadership@codeforbuffalo.org?subject=Meetup%20Suggestion)
+Our projects typically meet on their own schedules, but an easy way to get involved is to come to one of our [meetups](https://www.meetup.com/Code-for-Buffalo-Code-for-America-of-Western-New-York/). They kick off with some social time to mingle, chat, and grab a bite to eat. Then we hear announcements about ongoing projects or needs the community has, followed by either a guest speaker, special presentation, or discussion topic. After that, there's time to break out into groups to work on projects or just continue good conversations. If you have a suggestion for a meetup, send us an email at [leadership@codeforbuffalo.org](mailto:leadership@codeforbuffalo.org?subject=Meetup%20Suggestion)
 
 ### Join the Conversation
 
