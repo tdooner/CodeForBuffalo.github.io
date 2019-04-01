@@ -1,37 +1,30 @@
-<section id="featured-apps">
-  <div class="container">
-    <h3>Featured Stories and Civic Innovation Highlights</h3>
-    <div class="row">
+<section id="featured-apps" class="py-5">
+    <div class="container">
+        <h3>Featured Stories and Civic Innovation Highlights</h3>
 
-      <!--div class="col-sm-4">
-        <div class="panel panel-default">
-          <a href="https://data.buffalony.gov/stories/s/3kh4-936y/" target="_blank">
-            <div class="panel-thumbnail"><img src="/images/apps/data_u_bflo.jpg" class="img-responsive"></div>
-          </a>
-          <div class="panel-body">
-            <p class="lead">City of Buffalo's Data University</p>
-            <p>Develop the skills to be a data-smart citizen! Apply today!</p>
-            <p><a class="btn btn-primary" href="https://data.buffalony.gov/stories/s/3kh4-936y/" target="_blank"><i class="fa fa-external-link"></i> Check it out</a></p>
-          </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="card-deck">
+
+                    {% for app in site.data.featured-apps %}
+                    <div class="card">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <div class="embed-responsive-item" style="background: url(/images/apps/{{ app.image }}) center center;background-size: cover;"></div>
+                        </div>
+                        <!--
+                    <a href="{{ app.url }}" target="_blank">
+                        <div class="panel-thumbnail"><img src="/images/apps/{{ app.image }}" alt="{{ app.name }}" class="img-responsive"></div>
+                    </a>
+-->
+                        <div class="card-body">
+                            <h4 class="card-title">{{ app.name }}</h4>
+                            <p class="card-text">{{ app.description }}</p>
+                            <a class="btn btn-primary" href="{{ app.url }}" target="_blank"><i class="fa fa-external-link-alt"></i> Check it out</a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div><!-- .card-deck -->
+            </div>
         </div>
-      </div-->
-
-
-      {% for app in site.data.featured-apps %}
-      <div class="col-sm-4">
-        <div class="panel panel-default">
-          <a href="{{ app.url }}" target="_blank">
-            <div class="panel-thumbnail"><img src="/images/apps/{{ app.image }}" alt="{{ app.name }}" class="img-responsive"></div>
-          </a>
-          <div class="panel-body">
-            <p class="lead">{{ app.name }}</p>
-            <p>{{ app.description }}</p>
-            <p><a class="btn btn-primary" href="{{ app.url }}" target="_blank"><i class="fa fa-external-link-alt"></i> Check it out</a></p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-
     </div>
-  </div>
 </section>

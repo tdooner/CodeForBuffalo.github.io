@@ -1,0 +1,56 @@
+<div class="row">
+    <div class="col-12">
+        <div class="border-bottom pb-4 mb-4">
+            <h4>Local Civic Innovators and Creative Problem-Solvers</h4>
+
+            <p>We are civic-minded residents committed to working with local government and the Buffalo community to make our region stronger. We’re here to help and eager to learn from professional public servants. While we’re advocates for open government (we can’t build apps without open data!), we’re non-partisan and public-minded.</p>
+
+            <p>We are a group of organizers and activists, software developers and data scientists, designers and researchers, project managers and public servants, and many more passionate community members.</p>
+
+            <p>We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life for all residents. We strive to achieve this by helping enhance public services to be <em>better, faster, and cheaper</em> and have the greatest impact for the greatest amount of people who have the greatest need.</p>
+        </div>
+        <div class="border-bottom pb-4 mb-4">
+            <h4>Diversity and Inclusion</h4>
+            <strong>*Building a better Buffalo needs <em>all</em> of Buffalo.*</strong>
+
+            <p>We welcome people of any gender identity or expression, race, skin color, ethnicity, age, size, nationality, sexual orientation, ability level, neurotype, religion, culture, political opinion, education level, and identity.</p>
+
+            <p>In the wise words of Jane Jacobs,</p>
+            <blockquote>Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody.</blockquote>
+
+            <p>We welcome activists, artists, bloggers, crafters, coders, wannabe-coders, designers, entrepreneurs, journalists, teachers, ordinary people, extraordinary people, and everyone in between.</p>
+        </div>
+        <div>
+            <h4>Code for Buffalo Leadership</h4>
+            <p>Code for Buffalo is powered by volunteers just like you. The Core Team organizes events, manages strategic partnerships, and ensures fluid communication among cross-functional project teams. We oversee volunteer management, organizational sustainability, and day-to-day operations.</p>
+        </div>
+
+        <div>
+            <h4>Help lead Code for Buffalo with us!</h4>
+
+            <p>Come join us as we build the civic tech community and a better Buffalo! We’re looking for diverse voices to contribute to the team and provide important perspectives so that our work engages the diverse population of Buffalo. You do not need to be a Code for Buffalo regular and you **definitely** do not need to be a coder. Instead, you should have an interest in improving civic outcomes and at least some interest in technology. You should be able to think creatively about civic and strategic issues. If you'd like to learn more about joining the team, reach out to <a href="mailto:leadership@codeforbuffalo.org?subject=Meetup%20Suggestion">leadership@codeforbuffalo.org</a></p>
+        </div>
+    </div>
+</div>
+<div class="row py-5">
+    {% for member in site.data.senior_leadership %}
+    <div class="col-12 col-md-4">
+        <img class="img-fluid rounded-circle" src="/images/headshots/{{ member.headshot }}">
+        <div class="text-center">
+            <h4>{{ member.name }}</h4>
+            <h5>{{ member.title }}</h5>
+        </div>
+        <ul class="list-unstyled horizontal-icons text-center">
+            {% if member.email %}<li><a href="mailto:{{ member.email }}?subject=Code%20for%20Buffalo"><i class="fas fa-envelope"></i></a></li>{% endif %}
+            {% if member.twitter %}<li><a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter" target="_blank"></i></a></li>{% endif %}
+            {% if member.github %}<li><a href="https://github.com/{{ member.github }}"><i class="fab fa-github" target="_blank"></i></a></li>{% endif %}
+            {% if member.linkedin %}<li><a href="{{ member.linkedin }}"><i class="fab fa-linkedin" target="_blank"></i></a></li>{% endif %}
+        </ul>
+    </div>
+    {% endfor %}
+</div>
+
+<h2>We are Code for Buffalo.</h2>
+
+<p>Est. 2018, Buffalo, NY. The Code for America Brigade of Western New York
+</p>
