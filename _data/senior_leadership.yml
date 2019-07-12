@@ -1,5 +1,5 @@
 - name: Mike Brown
-  title: 'Brigade Co-Captain'
+  title:
   headshot: MikeBrown.jpg
   bio: >-
 
@@ -9,7 +9,7 @@
   linkedin: 'https://www.linkedin.com/in/mpbrown15'
 
 - name: Ashley Smith
-  title: 'Brigade Co-Captain'
+  title:
   headshot: AshleySmith.jpg
   bio: >-
 
@@ -19,31 +19,31 @@
   linkedin: 'https://www.linkedin.com/in/als904/'
 
 - name: Jalonda Hill
-  title: Project Facilitation Lead
+  title:
   headshot: JalondaHill.jpg
   bio: >-
 
   email: jalondah@buffalo.edu
   twitter:
   github:
-  linkedin: 
+  linkedin:
 
-- name: Jamie Bono
-  title: Data Lead
-  headshot: JamieBono.jpg
+- name: Julie Pryzbyla
+  title:
+  headshot: JuliePryzbyla.jpg
   bio: >-
 
-  email: jamie@codeforbuffalo.org
-  twitter: jbono
-  github:
-  linkedin: 'https://www.linkedin.com/in/jamiebono/'
-
-- name: Duane Conners
-  title: ITBuffalo Liaison
-  headshot: DuaneConners.jpg
-  bio: >-
-
-  email: fdconners@rprtgroup.co
+  email: julieprz@buffalo.edu
   twitter:
   github:
-  linkedin: 'https://www.linkedin.com/in/francis-conners-b776644/'
+  linkedin:
+
+- name: Jonathan (Jb) Hutchison
+  title:
+  headshot: JBHutch.jpg
+  bio: >-
+
+  email: jbhutch01@gmail.com
+  twitter:
+  github:
+  linkedin:

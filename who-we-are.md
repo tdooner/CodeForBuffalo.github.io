@@ -9,10 +9,6 @@ permalink: /who-we-are/
 
 We are civic-minded residents committed to working with local government and the Buffalo community to make our region stronger. We’re here to help and eager to learn from professional public servants. While we’re advocates for open government (we can’t build apps without open data!), we’re non-partisan and public-minded.
 
-We are a group of organizers and activists, software developers and data scientists, designers and researchers, project managers and public servants, and many more passionate community members.
-
-We work in partnership with government, non-profit, and technical partners to deploy technology to improve quality of life for all residents. We strive to achieve this by helping enhance public services to be <em>better, faster, and cheaper</em> and have the greatest impact for the greatest amount of people who have the greatest need.
-
 ---
 
 #### Diversity and Inclusion
@@ -29,11 +25,6 @@ We welcome activists, artists, bloggers, crafters, coders, wannabe-coders, desig
 
 #### Code for Buffalo Leadership
 Code for Buffalo is powered by volunteers just like you. The Core Team organizes events, manages strategic partnerships, and ensures fluid communication among cross-functional project teams. We oversee volunteer management, organizational sustainability, and day-to-day operations.
-
-##### Help lead Code for Buffalo with us!
-
-Come join us as we build the civic tech community and a better Buffalo! We’re looking for diverse voices to contribute to the team and provide important perspectives so that our work engages the diverse population of Buffalo. You do not need to be a Code for Buffalo regular and you **definitely** do not need to be a coder. Instead, you should have an interest in improving civic outcomes and at least some interest in technology. You should be able to think creatively about civic and strategic issues. If you'd like to learn more about joining the team, reach out to [leadership@codeforbuffalo.org](mailto:leadership@codeforbuffalo.org?subject=Meetup%20Suggestion)
-
 
 <div class="row">
   {% for member in site.data.senior_leadership %}
@@ -54,6 +45,11 @@ Come join us as we build the civic tech community and a better Buffalo! We’re 
           {% endif %}
   {% endfor %}
 </div>
+
+##### Help lead Code for Buffalo with us!
+
+We’re looking for diverse voices to contribute to the team and provide important perspectives so that our work engages the diverse population of Buffalo. You do not need to be a Code for Buffalo regular and you **definitely** do not need to be a coder. Instead, you should have an interest in improving civic outcomes and at least some interest in technology. You should be able to think creatively about civic and strategic issues. If you'd like to learn more about joining the team, reach out to [leadership@codeforbuffalo.org](mailto:leadership@codeforbuffalo.org?subject=Meetup%20Suggestion)
+
 
 ## We are Code for Buffalo.
 
