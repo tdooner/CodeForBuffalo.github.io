@@ -1,0 +1,11 @@
+- name: GetBuffaloWater
+  description: Mobile website empowering Buffalo residents to apply for financial assistance on their water bill. 2019 Code for America Community Fellowship project.
+  repository: https://github.com/CodeForBuffalo/affordable_water
+  contact: Mike Brown
+  email: mike@codeforbuffalo.org
+- name: City Auction Map for PUSH Buffalo
+  description: Interactive map of Buffalo city auction properties near PUSH Buffalo
+  url: https://codeforbuffalo.org/auction-map/
+  repository: https://github.com/CodeForBuffalo/cityauction
+  contact: Andrew Hintermeier
+
